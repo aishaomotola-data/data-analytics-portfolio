@@ -25,6 +25,18 @@ Superstore Sales Dataset (Kaggle) — 10,000+ records
 - Total Orders
 - Profit Margin %
 
+## Key Findings
+- Technology is the highest grossing category by revenue and profit
+- West region leads all four regions in total sales
+- California is the strongest individual state by revenue
+- Sales and profit grew consistently year on year with 2017
+  recording the highest performance across both metrics
+
+## Recommendation
+Prioritise investment in Technology products and increase marketing
+in the West region and California. The West + Technology combination
+represents the highest impact opportunity for continued growth.
+
 ## Files
 - Superstore_Sales_Dashboard.pbix — Power BI file
 - Superstore_Sales_Dashboard.pdf — Exported dashboard
